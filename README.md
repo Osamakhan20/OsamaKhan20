@@ -1,8 +1,10 @@
-👋 Hi, I’m @OsamaKhan, A passionate MERN STACK DEVELOPER <br>
-👀 I’m interested in JavaScript/TypeScript and AnyThing related to it <br>
-🌱 I’m currently learning nextJS, nestJS and devOps <br>
-💞️ I’m looking to collaborate on anyThing related to JavaScript/TypeScript and will try my best to give the best result <br>
+👋 Hi, I’m @OsamaKhan, a Results-driven & Passionate MERN STACK DEVELOPER <br>
+👀 Interested in JavaScript/TypeScript and AnyThing related to it <br>
+🌱 Currently learning NextJS, NestJS and DevOps <br>
+💞️ Looking to collaborate on anyThing related to JavaScript/TypeScript, always aiming to deliver the best results <br>
 📫 How to reach me osmiikhan137@gmail.com
+
+
 
 <!--
 **Osamakhan20/OsamaKhan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
