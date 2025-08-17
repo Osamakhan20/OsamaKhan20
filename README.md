@@ -1,8 +1,11 @@
 
+<h1 align="center">
+ Hi 👋, I'm Osama Ali Khan 
+</h1>
 
-# Hi 👋, I'm Osama Ali Khan
-
-**Full Stack Engineer | Building scalable applications using NodeJS, NestJS, ReactJS, NextJS, and GenerativeAI**
+<p align="center">
+  <b>Full Stack Engineer | Building scalable applications using NodeJS, NestJS, ReactJS, NextJS, and GenerativeAI</b>
+</p>
 
 ---
 
