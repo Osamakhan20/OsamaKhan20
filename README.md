@@ -1,24 +1,32 @@
-👋 Hi, I’m @OsamaKhan, a Results-driven & Passionate MERN STACK DEVELOPER <br>
-👀 Interested in JavaScript/TypeScript and AnyThing related to it <br>
-🌱 Currently learning NextJS, NestJS and DevOps <br>
-💞️ Looking to collaborate on anyThing related to JavaScript/TypeScript, always aiming to deliver the best results <br>
-📫 How to reach me osmiikhan137@gmail.com
 
 
+# Hi 👋, I'm Osama Ali Khan
 
-<!--
-**Osamakhan20/OsamaKhan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Engineer | Building scalable applications using NodeJS, NestJS, ReactJS, NextJS, and GenerativeAI**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## About Me
 
+Hello there! 👋 I'm a self-driven Full Stack Web Developer with a strong passion for crafting seamless digital experiences.  
 
+### 🔧 Technical Expertise:
+- 🚀 Proficient in **JavaScript, TypeScript, NodeJS, and ExpressJS**  
+- 💻 Front-end wizard with expertise in **ReactJS, Redux, Redux-Saga, and React-Query**  
+- 💳 Integrated secure payment gateways like **Stripe and NMI** for smooth transactions  
+- 🗄️ Experienced in **MongoDB and PostgreSQL**, ensuring robust data management  
+- ☁️ Knowledgeable in **AWS services** such as EC2, S3, SES, CloudFront, Route53, and RDS  
+- 🔐 Versed in version control with **GitHub, GitLab, and Bitbucket**  
+- 🤖 Explored the realms of **Generative AI**, leveraging OpenAI API for innovative solutions  
+- 📚 Proficient in **Large Language Models (LLMs)** for NLP, Chatbots, RAG Pipelines, and Automation  
 
--->
+---                                                                                                                                                                                                                                                                                                                                                                                   
+## 🌍 Remote Work Enthusiast:
+✅ Open to remote collaborations and eager to contribute to inspiring projects.  
+Let’s build something incredible together! 🚀
+
+## 🤝 Connect with Me                                                                                                                                                                                           
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-ali-khan-301782243/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmiikhan137@gmail.com)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
