@@ -21,8 +21,6 @@ Hello there! 👋 I'm a self-driven Full Stack Web Developer with a strong passi
 - ☁️ Knowledgeable in **AWS services** such as EC2, S3, SES, CloudFront, Route53, and RDS  
 - 🔐 Versed in version control with **GitHub, GitLab, and Bitbucket**  
 - 🤖 Explored the realms of **Generative AI**, leveraging OpenAI API for innovative solutions  
-- 📚 Proficient in **Large Language Models (LLMs)** for NLP, Chatbots, RAG Pipelines, and Automation  
-
 ---                                                                                                                                                                                                                                                                                                                                                                                   
 ## 🌍 Remote Work Enthusiast:
 ✅ Open to remote collaborations and eager to contribute to inspiring projects.  
